@@ -5,7 +5,7 @@ from selenium import webdriver
 
 # импортируем класс By, который позволяет выбрать способ поиска элемента
 from selenium.webdriver.common.by import By
-
+# System.setProperty("webdriver.chrome.driver", "C://Selenium-java browserstack//chromedriver_win32//chromedriver.exe");
 # инициализируем драйвер браузера. После этой команды вы должны увидеть новое открытое окно браузера
 driver = webdriver.Chrome()
 
