@@ -3,3 +3,4 @@
 
 /chromedriver.exe
 /data.txt
+!/geckodriver.log
